@@ -17,3 +17,6 @@ the differnts is that virtualization is a part that lets  you to create multiple
 
 ### Python 
 Pseudo code is a term which is often used in programming and algorithm based fields. It is a methodology that allows the programmer to represent the implementation of an algorithm.
+
+
+### Career Exploration
