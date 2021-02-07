@@ -20,4 +20,7 @@ Pseudo code is a term which is often used in programming and algorithm based fie
 
 
 ### Career Exploration
-Exploration 
+Exploration I can be anything from a Tech to an Social Media Marketing Assistant.
+theres is none to little jobs that offers on job traning.
+Certifications you should study before taking the test and that they dont coast that much to take the test
+Co-ops / Internships to be Co-ops ready you must have a gpa of 2.7 and have 12 credit hours.
